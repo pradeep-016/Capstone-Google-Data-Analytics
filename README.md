@@ -1,7 +1,7 @@
 # Cyclist Dataset Analysis
 
 ## Introduction
-In this capstone project, we will analyze the Cyclist Dataset to gain insights into cycling patterns and trends. The dataset contains information about cyclists, including their demographics, bike usage, and trip details.
+In this capstone project, we will analyze the Cyclist Dataset to gain insights into cycling patterns and trends. The dataset contains information about cyclists, including their demographics, bike usage, and trip details on dataset.
 
 ## Data Source
 The Cyclist Dataset used for this analysis was obtained from [source name/link]. It consists of [number of records] records and [number of columns] columns.
