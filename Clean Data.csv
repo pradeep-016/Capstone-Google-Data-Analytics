@@ -1,0 +1,15 @@
+"all_trips_v2$customer_type","all_trips_v2$day_of_the_week","all_trips_v2$trip_duration"
+"casual","Mon",45.148509639861
+"member","Mon",15.3373461616154
+"casual","Tue",40.6558933521356
+"member","Tue",15.1307220858565
+"casual","Wed",40.4548761791332
+"member","Wed",15.3170633242528
+"casual","Thu",43.1227044457579
+"member","Thu",15.2095825885898
+"casual","Fri",42.9106367351128
+"member","Fri",15.8020752009435
+"casual","Sat",46.9736108415713
+"member","Sat",17.7939723127489
+"casual","Sun",50.760101150723
+"member","Sun",18.2178448697217
