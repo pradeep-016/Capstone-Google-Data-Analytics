@@ -61,4 +61,4 @@ In future analyses, we could consider the following areas of investigation:
 - Conducting a sentiment analysis on cyclist feedback and reviews to gain insights into their experiences and preferences.
 
 ## References
-[kaggle](https://www.kaggle.com/pradeep01223/google-data-analytics-capstone-project-pradeep-l/edit)
+[kaggle](https://www.kaggle.com/pradeep01223/google-data-analytics-capstone-project-pradeep-l/)
